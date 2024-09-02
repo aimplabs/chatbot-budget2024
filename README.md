@@ -1,2 +1,1 @@
-# chatbot-budget2024
-chatbot-budget2024
+This repository contains the jupyter notebook of the tutorial [Chat with India's Budget 2024 using your local CPU chatbot](https://www.aimplabs.org/blogs/chatbot-budget2024/)
